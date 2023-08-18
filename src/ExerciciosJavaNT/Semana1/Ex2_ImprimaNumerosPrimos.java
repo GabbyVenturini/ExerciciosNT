@@ -6,7 +6,6 @@ public class Ex2_ImprimaNumerosPrimos {
     public static void main(String[] args) {
         int valor = 1000;
         boolean primo;
-
         for (int i = 2; i <= valor; i++) {
             primo = true;
             for (int j = 2; j <= Math.sqrt(i); j++) {
