@@ -1,4 +1,7 @@
 # ExerciciosNT
+Exercicios de Java.
+
+
  Exercicios da primeira semana de Java. Exercícios de lógica
 
 1 -  Imprima todos números pares de 0 a 100.
