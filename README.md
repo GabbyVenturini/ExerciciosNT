@@ -1,6 +1,4 @@
 # ExerciciosNT
-Exercicios de Java.
-
 
  Exercicios da primeira semana de Java. Exercícios de lógica
 
